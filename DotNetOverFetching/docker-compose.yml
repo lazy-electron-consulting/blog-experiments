@@ -1,0 +1,21 @@
+
+version: "3.7"
+
+services:
+  mssql:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "9c56db0a-2f18-47b0-a3d5-8beefa93a9c7"
+    ports:
+      - "1433:1433"
+    volumes:
+      - "mssql-data:/var/opt/mssql"
+
+  seed:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    restart: on-failure
+    command: /opt/mssql-tools/bin/sqlcmd -S mssql -U SA -P "9c56db0a-2f18-47b0-a3d5-8beefa93a9c7" -Q "IF NOT EXISTS (SELECT 1 FROM sys.databases WHERE name = 'overfetch') CREATE DATABASE overfetch;"
+
+volumes:
+  mssql-data:
