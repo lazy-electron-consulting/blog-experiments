@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>DotNetOverFetching.EfCoreOverfetchNoTracking-20210722-160459</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet=v0.12.1, OS=ubuntu 20.04
+Intel Core i7-10875H CPU 2.30GHz, 1 CPU, 16 logical and 8 physical cores
+.NET Core SDK=3.1.411
+  [Host]     : .NET Core 3.1.17 (CoreCLR 4.700.21.31506, CoreFX 4.700.21.31502), X64 RyuJIT
+  DefaultJob : .NET Core 3.1.17 (CoreCLR 4.700.21.31506, CoreFX 4.700.21.31502), X64 RyuJIT
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>Method</th><th>Width</th><th>Mean</th><th>Error</th><th>StdDev</th><th>Gen 0</th><th>Gen 1</th><th>Gen 2</th><th>Allocated</th>
+</tr>
+</thead><tbody><tr><td>Overfetch</td><td>4</td><td>404.2 &mu;s</td><td>8.00 &mu;s</td><td>9.82 &mu;s</td><td>4.8828</td><td>-</td><td>-</td><td>39.88 KB</td>
+</tr><tr><td>SelectOne</td><td>4</td><td>406.5 &mu;s</td><td>7.50 &mu;s</td><td>6.65 &mu;s</td><td>4.8828</td><td>-</td><td>-</td><td>40.3 KB</td>
+</tr><tr><td>Overfetch</td><td>16</td><td>422.8 &mu;s</td><td>8.08 &mu;s</td><td>9.61 &mu;s</td><td>5.3711</td><td>-</td><td>-</td><td>44.07 KB</td>
+</tr><tr><td>SelectOne</td><td>16</td><td>413.1 &mu;s</td><td>8.11 &mu;s</td><td>7.59 &mu;s</td><td>4.8828</td><td>-</td><td>-</td><td>39.85 KB</td>
+</tr><tr><td>Overfetch</td><td>32</td><td>443.7 &mu;s</td><td>4.16 &mu;s</td><td>3.68 &mu;s</td><td>5.8594</td><td>0.4883</td><td>-</td><td>49.49 KB</td>
+</tr><tr><td>SelectOne</td><td>32</td><td>399.5 &mu;s</td><td>7.95 &mu;s</td><td>10.06 &mu;s</td><td>4.3945</td><td>-</td><td>-</td><td>39.16 KB</td>
+</tr><tr><td>Overfetch</td><td>64</td><td>481.1 &mu;s</td><td>8.96 &mu;s</td><td>9.20 &mu;s</td><td>7.3242</td><td>0.4883</td><td>-</td><td>60.19 KB</td>
+</tr><tr><td>SelectOne</td><td>64</td><td>412.9 &mu;s</td><td>7.78 &mu;s</td><td>7.99 &mu;s</td><td>4.8828</td><td>-</td><td>-</td><td>40.19 KB</td>
+</tr><tr><td>Overfetch</td><td>128</td><td>548.6 &mu;s</td><td>10.64 &mu;s</td><td>9.43 &mu;s</td><td>9.7656</td><td>0.9766</td><td>-</td><td>81.87 KB</td>
+</tr><tr><td>SelectOne</td><td>128</td><td>402.7 &mu;s</td><td>6.82 &mu;s</td><td>7.30 &mu;s</td><td>4.8828</td><td>-</td><td>-</td><td>39.83 KB</td>
+</tr><tr><td>Overfetch</td><td>256</td><td>682.5 &mu;s</td><td>13.53 &mu;s</td><td>12.66 &mu;s</td><td>14.6484</td><td>2.9297</td><td>-</td><td>126.12 KB</td>
+</tr><tr><td>SelectOne</td><td>256</td><td>409.1 &mu;s</td><td>7.92 &mu;s</td><td>11.36 &mu;s</td><td>4.8828</td><td>-</td><td>-</td><td>39.85 KB</td>
+</tr><tr><td>Overfetch</td><td>512</td><td>885.5 &mu;s</td><td>14.20 &mu;s</td><td>13.28 &mu;s</td><td>26.3672</td><td>8.7891</td><td>-</td><td>215 KB</td>
+</tr><tr><td>SelectOne</td><td>512</td><td>405.8 &mu;s</td><td>8.09 &mu;s</td><td>8.99 &mu;s</td><td>4.3945</td><td>-</td><td>-</td><td>39.16 KB</td>
+</tr></tbody></table>
+</body>
+</html>

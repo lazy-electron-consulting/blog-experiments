@@ -1,0 +1,333 @@
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-cummean.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-facetTimeline.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=512-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=512-cummean.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=512-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=512-timeline.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=256-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=256-cummean.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=256-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=256-timeline.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=128-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=128-cummean.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=128-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=128-timeline.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=64-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=64-cummean.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=64-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=64-timeline.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=32-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=32-cummean.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=32-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=32-timeline.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=16-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=16-cummean.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=16-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=16-timeline.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=4-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=4-cummean.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=4-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-DefaultJob Width=4-timeline.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-Width=512-facetDensity.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-Width=512-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-Width=256-facetDensity.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-Width=256-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-Width=128-facetDensity.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-Width=128-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-Width=64-facetDensity.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-Width=64-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-Width=32-facetDensity.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-Width=32-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-Width=16-facetDensity.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-Width=16-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-Width=4-facetDensity.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-Width=4-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-facetDensity.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-SelectOne-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-cummean.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-facetTimeline.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=512-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=512-cummean.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=512-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=512-timeline.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=256-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=256-cummean.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=256-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=256-timeline.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=128-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=128-cummean.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=128-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=128-timeline.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=64-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=64-cummean.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=64-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=64-timeline.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=32-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=32-cummean.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=32-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=32-timeline.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=16-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=16-cummean.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=16-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=16-timeline.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=4-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=4-cummean.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=4-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-DefaultJob Width=4-timeline.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-Width=512-facetDensity.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-Width=512-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-Width=256-facetDensity.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-Width=256-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-Width=128-facetDensity.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-Width=128-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-Width=64-facetDensity.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-Width=64-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-Width=32-facetDensity.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-Width=32-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-Width=16-facetDensity.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-Width=16-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-Width=4-facetDensity.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-Width=4-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-facetDensity.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-Overfetch-density.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-barplot.png ***
+------------------------------
+*** Plot: /home/ryan/projects/lazy-electron/blog-experiments/DotNetOverFetching/BenchmarkDotNet.v1/results/DotNetOverFetching.EfCoreOverfetchNoTracking-boxplot.png ***
+Call `lifecycle::last_warnings()` to see where this warning was generated. 
+This warning is displayed once every 8 hours.
+See vignette('programming') for more help
+Please use `group_by()` instead.
+`group_by_()` was deprecated in dplyr 0.7.0.
+Warning message:
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`summarise()` has grouped output by 'Target_Method'. You can override using the `.groups` argument.
+R.devices v2.17.0 (2021-01-19 18:30:06 UTC) successfully loaded. See ?R.devices for help.
+    combine
+The following object is masked from ‘package:dplyr’:
+    combine
+The following object is masked from ‘package:gdata’:
+Attaching package: ‘gridExtra’
+    startsWith
+The following object is masked from ‘package:base’:
+    object.size
+The following object is masked from ‘package:utils’:
+    nobs
+The following object is masked from ‘package:stats’:
+    combine, first, last
+The following objects are masked from ‘package:dplyr’:
+Attaching package: ‘gdata’
+gdata: read.xls support for 'XLSX' (Excel 2007+) files ENABLED.
+gdata: read.xls support for 'XLS' (Excel 97-2004) files ENABLED.
+    intersect, setdiff, setequal, union
+The following objects are masked from ‘package:base’:
+    filter, lag
+The following objects are masked from ‘package:stats’:
+Attaching package: ‘dplyr’
